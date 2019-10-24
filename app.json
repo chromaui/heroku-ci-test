@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "pwd; ls -la .git; which git; tree .git; git lg"
+      }
+    }
+  }
+}
