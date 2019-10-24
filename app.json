@@ -2,7 +2,7 @@
   "environments": {
     "test": {
       "scripts": {
-        "test": "pwd; ls -la .git; which git; tree .git; git lg"
+        "test": "pwd; ls -la .; ls -la .git; git log"
       }
     }
   }
